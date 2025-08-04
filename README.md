@@ -6,7 +6,7 @@ This project is part of a Data Analyst Internship selection process. The goal wa
 📁 Dataset
 **Customer Personality Analysis**  
 Source: [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)  
-Format: `.csv` (tab-separated)
+Format: `.csv`
 
 🧠 Objectives Achieved
 
