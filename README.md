@@ -2,7 +2,6 @@
 
 Welcome to my project repository for the [Company/Program Name] Data Analyst Internship. This repository contains all the tasks assigned and completed during the internship, **organized day-wise for transparency, structure, and clarity**.
 
----
 
 ## 🗂 Repository Overview
 
@@ -13,7 +12,5 @@ This repository tracks my **daily progress**, deliverables, and learnings throug
 - 🧠 Insights and documentation (`README.md` for each day)
 - 🧪 Datasets (if required)
 
----
 
-## 📅 Daily Upload Structure
 
