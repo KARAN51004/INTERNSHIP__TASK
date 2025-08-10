@@ -1,11 +1,27 @@
-📊 Data Analyst Internship – Daily Task Submissions
+task-4 : Ecommerce SQL Analysis – Olist Dataset
 
-Welcome to my project repository for the Data Analyst Internship. This repository contains all the tasks assigned and completed during the internship, **organized day-wise for transparency, structure, and clarity**.
+This project analyzes the `olist.sqlite` database from Kaggle’s Ecommerce dataset using SQL to extract business insights. It includes 10 queries covering order trends, sales by category and seller, payment analysis, customer activity, delivery times, and review summaries.  
 
-🗂 Repository Overview
+**Structure:**
+- `olist.sqlite` – Source database
+- `sql_queries/` – `.sql` files for each query
+- `query_outputs/` – `.csv` outputs from queries
+- `Task4_Report.pdf` – Final compiled results
 
-This repository tracks my  **daily progress**, deliverables, and learnings throughout the internship journey. Each folder represents one day of work and includes:
-- 📄 Completed task files (Jupyter Notebooks, Power BI dashboards, Excel files, etc.)
-- 📊 Final outputs or reports (PDFs, screenshots)
-- 🧠 Insights and documentation (`README.md` for each day)
-- 🧪 Datasets (if required)
+**How to Use:**
+1. Open `olist.sqlite` in **DB Browser for SQLite** or run via Python’s `sqlite3`.
+2. Execute queries from `sql_queries/`.
+3. Export results to `query_outputs/` (CSV).
+
+**Queries Include:**
+1. Orders from 2018  
+2. Top 5 categories by sales  
+3. Sales by seller  
+4. Average delivery time  
+5. Payment method usage  
+6. Orders per customer  
+7. Best-selling product  
+8. Monthly revenue  
+9. Review rating summary  
+10. Top-performing sellers  
+
