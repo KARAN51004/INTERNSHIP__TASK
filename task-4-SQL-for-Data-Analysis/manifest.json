@@ -1,0 +1,81 @@
+[
+  {
+    "query": 1,
+    "desc": "Orders from 2018 (latest first)",
+    "rows": 54011,
+    "csv": "query01_output.csv",
+    "png": "query01_output.png"
+  },
+  {
+    "query": 2,
+    "desc": "Total revenue per product category",
+    "rows": 74,
+    "csv": "query02_output.csv",
+    "png": "query02_output.png"
+  },
+  {
+    "query": 3,
+    "desc": "Customers with more than 5 orders",
+    "rows": 11,
+    "csv": "query03_output.csv",
+    "png": "query03_output.png"
+  },
+  {
+    "query": 4,
+    "desc": "Products whose avg sold price is above overall avg (per product)",
+    "rows": 10973,
+    "csv": "query04_output.csv",
+    "png": "query04_output.png"
+  },
+  {
+    "query": 5,
+    "desc": "Order details with customer & payment info (INNER JOIN) - limited 200 rows",
+    "rows": 200,
+    "csv": "query05_output.csv",
+    "png": "query05_output.png"
+  },
+  {
+    "query": 6,
+    "desc": "All customers with their orders (LEFT JOIN) - limited 200 rows",
+    "rows": 200,
+    "csv": "query06_output.csv",
+    "png": "query06_output.png"
+  },
+  {
+    "query": 7,
+    "desc": "All sellers and their sold items (LEFT JOIN) - limited 200 rows",
+    "rows": 200,
+    "csv": "query07_output.csv",
+    "png": "query07_output.png"
+  },
+  {
+    "query": 8,
+    "desc": "Average payment value per payment type",
+    "rows": 5,
+    "csv": "query08_output.csv",
+    "png": "query08_output.png"
+  },
+  {
+    "query": 9,
+    "desc": "Top 50 best-selling product categories by revenue (view)",
+    "rows": null,
+    "csv": null,
+    "png": null,
+    "status": "executed"
+  },
+  {
+    "query": 10,
+    "desc": "Select from top_50_categories view",
+    "rows": 5,
+    "csv": "query10_output.csv",
+    "png": "query10_output.png"
+  },
+  {
+    "query": 11,
+    "desc": "Create index on orders purchase timestamp",
+    "rows": null,
+    "csv": null,
+    "png": null,
+    "status": "executed"
+  }
+]
