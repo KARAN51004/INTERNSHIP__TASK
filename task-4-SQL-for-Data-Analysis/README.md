@@ -2,6 +2,9 @@ task-4 : Ecommerce SQL Analysis – Olist Dataset
 
 This project analyzes the `olist.sqlite` database from Kaggle’s Ecommerce dataset using SQL to extract business insights. It includes 10 queries covering order trends, sales by category and seller, payment analysis, customer activity, delivery times, and review summaries.  
 
+**Datebase** 
+-olist.sqlite -- source link https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
+
 **Structure:**
 - `olist.sqlite` – Source database
 - `sql_queries/` – `.sql` files for each query
