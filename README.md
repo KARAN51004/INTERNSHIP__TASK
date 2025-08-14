@@ -1,6 +1,6 @@
 # 📊 Data Analyst Internship – Daily Task Submissions
 
-Welcome to my project repository for the [Company/Program Name] Data Analyst Internship. This repository contains all the tasks assigned and completed during the internship, **organized day-wise for transparency, structure, and clarity**.
+Welcome to my project repository for the Data Analyst Internship. This repository contains all the tasks assigned and completed during the internship, **organized day-wise for transparency, structure, and clarity**.
 
 
 ## 🗂 Repository Overview
